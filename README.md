@@ -1,4 +1,4 @@
-[![MasterHead](https://media-exp1.licdn.com/dms/imag...)]
+[![MasterHead](https://raw.githubusercontent.com/Sagar-16/Sagar-16/main/banner.webp)]
 
 <h1 align="center">Hi 👋, I'm Sagar Dhampalwar</h1>
 <h3 align="center">A passionate Coder looking for SDE roles.</h3>
