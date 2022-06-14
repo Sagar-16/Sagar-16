@@ -1,7 +1,7 @@
 ![MasterHead](https://raw.githubusercontent.com/Sagar-16/Sagar-16/main/banner.webp)
 
 <h1 align="center">Hi 👋, I'm Sagar Dhampalwar</h1>
-<h3 align="center">A passionate Coder looking for SDE roles.</h3>
+<h3 align="center">A Passionate Coder looking for SDE roles.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagar-16&label=Profile%20views&color=0e75b6&style=flat" alt="sagar-16" /> </p>
 
